@@ -1,0 +1,8 @@
+D:\c#\Tasks\Tasks\Concurrency\bin\Debug\Concurrency.exe.config
+D:\c#\Tasks\Tasks\Concurrency\bin\Debug\Concurrency.exe
+D:\c#\Tasks\Tasks\Concurrency\bin\Debug\Concurrency.pdb
+D:\c#\Tasks\Tasks\Concurrency\obj\Debug\Concurrency.csproj.AssemblyReference.cache
+D:\c#\Tasks\Tasks\Concurrency\obj\Debug\Concurrency.csproj.CoreCompileInputs.cache
+D:\c#\Tasks\Tasks\Concurrency\obj\Debug\Concurrency.exe
+D:\c#\Tasks\Tasks\Concurrency\obj\Debug\Concurrency.pdb
+D:\c#\Tasks\Tasks\Concurrency\obj\Debug\Concurrency.exe.config

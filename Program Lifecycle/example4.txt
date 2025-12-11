@@ -1,0 +1,6 @@
+ASSIGN x 5; 
+ASSIGN y 10; 
+ASSIGN z ADD x y;  
+LOG z; 
+ASSIGN ADD z y;
+LOG w;

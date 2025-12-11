@@ -1,0 +1,8 @@
+D:\c#\Tasks\Tasks\Oop\bin\Debug\Oop.exe.config
+D:\c#\Tasks\Tasks\Oop\bin\Debug\Oop.exe
+D:\c#\Tasks\Tasks\Oop\bin\Debug\Oop.pdb
+D:\c#\Tasks\Tasks\Oop\obj\Debug\Oop.csproj.AssemblyReference.cache
+D:\c#\Tasks\Tasks\Oop\obj\Debug\Oop.csproj.CoreCompileInputs.cache
+D:\c#\Tasks\Tasks\Oop\obj\Debug\Oop.exe
+D:\c#\Tasks\Tasks\Oop\obj\Debug\Oop.pdb
+D:\c#\Tasks\Tasks\Oop\obj\Debug\Oop.exe.config

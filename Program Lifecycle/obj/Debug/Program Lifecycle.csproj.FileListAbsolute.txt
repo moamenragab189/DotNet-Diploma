@@ -1,0 +1,8 @@
+D:\c#\Tasks\Tasks\Program Lifecycle\bin\Debug\Program Lifecycle.exe.config
+D:\c#\Tasks\Tasks\Program Lifecycle\bin\Debug\Program Lifecycle.exe
+D:\c#\Tasks\Tasks\Program Lifecycle\bin\Debug\Program Lifecycle.pdb
+D:\c#\Tasks\Tasks\Program Lifecycle\obj\Debug\Program Lifecycle.csproj.AssemblyReference.cache
+D:\c#\Tasks\Tasks\Program Lifecycle\obj\Debug\Program Lifecycle.csproj.CoreCompileInputs.cache
+D:\c#\Tasks\Tasks\Program Lifecycle\obj\Debug\Program Lifecycle.exe
+D:\c#\Tasks\Tasks\Program Lifecycle\obj\Debug\Program Lifecycle.pdb
+D:\c#\Tasks\Tasks\Program Lifecycle\obj\Debug\Program Lifecycle.exe.config
