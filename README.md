@@ -8,6 +8,7 @@ Contains:
 - Data Structures & Algorithms
 - Concurrency
 - Program Lifecycle
+- LINQ
 - and more coming...
 
 All code written in C# (.NET)
