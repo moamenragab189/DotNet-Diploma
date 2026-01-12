@@ -9,6 +9,7 @@ Contains:
 - Concurrency
 - Program Lifecycle
 - LINQ
+- Entity Framework 
 - and more coming...
 
 All code written in C# (.NET)
