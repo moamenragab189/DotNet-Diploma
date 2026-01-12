@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Entity Framework Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97977DC8-4B7C-4C87-9AC0-77BA7E248A90}|Entity Framework Task\\Entity Framework Task.csproj|d:\\c#\\entity framework task\\entity framework task\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97977DC8-4B7C-4C87-9AC0-77BA7E248A90}|Entity Framework Task\\Entity Framework Task.csproj|solutionrelative:entity framework task\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97977DC8-4B7C-4C87-9AC0-77BA7E248A90}|Entity Framework Task\\Entity Framework Task.csproj|d:\\c#\\entity framework task\\entity framework task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97977DC8-4B7C-4C87-9AC0-77BA7E248A90}|Entity Framework Task\\Entity Framework Task.csproj|solutionrelative:entity framework task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97977DC8-4B7C-4C87-9AC0-77BA7E248A90}|Entity Framework Task\\Entity Framework Task.csproj|d:\\c#\\entity framework task\\entity framework task\\companydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97977DC8-4B7C-4C87-9AC0-77BA7E248A90}|Entity Framework Task\\Entity Framework Task.csproj|solutionrelative:entity framework task\\companydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyDatabaseContext.cs",
+              "DocumentMoniker": "D:\\c#\\Entity Framework Task\\Entity Framework Task\\CompanyDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Entity Framework Task\\CompanyDatabaseContext.cs",
+              "ToolTip": "D:\\c#\\Entity Framework Task\\Entity Framework Task\\CompanyDatabaseContext.cs",
+              "RelativeToolTip": "Entity Framework Task\\CompanyDatabaseContext.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:38:56.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "D:\\c#\\Entity Framework Task\\Entity Framework Task\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Entity Framework Task\\CompanyRepository.cs",
+              "ToolTip": "D:\\c#\\Entity Framework Task\\Entity Framework Task\\CompanyRepository.cs*",
+              "RelativeToolTip": "Entity Framework Task\\CompanyRepository.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAMwEkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:36:00.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Entity Framework Task\\Entity Framework Task\\Program.cs",
+              "RelativeDocumentMoniker": "Entity Framework Task\\Program.cs",
+              "ToolTip": "D:\\c#\\Entity Framework Task\\Entity Framework Task\\Program.cs",
+              "RelativeToolTip": "Entity Framework Task\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAzczMzMwmwGgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:20:01.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
